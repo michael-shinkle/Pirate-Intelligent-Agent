@@ -13,7 +13,7 @@
 ### Code Summary
 The goal of this project was to develop an intelligent agent that is capable of solving a pathfinding problem. In this project I was given the majority of the code for the treasure hunt game, including the sample environment, the moveset, and the agent as a player in the game. I created a deep-Q learning algorithm that allowed the intelligent agent to navigate the maze and to find the most efficient path through it. The agent was able to achieve 100% win rate after 176 epochs with a training time of 309.8 seconds.
 
-### >What Do Computer Scientists Do?
+### What Do Computer Scientists Do?
 Computer scientists use technology to solve problems in innovative ways. Sometimes this is as simple as developing a web application, other times it is creating revolutionary artificial intelligence systems. The algorithm I created isn't a ground breaking new way to develop a pathfinding system in games, but it is important as a first step into the world of artificial intelligence. 
 
 ### My Approach
